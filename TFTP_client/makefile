@@ -1,0 +1,1 @@
+g++ -std=c++0x tftpclient.cpp -o
